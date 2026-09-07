@@ -1,0 +1,24 @@
+Body {
+    background-color: yellow;
+    color: black;
+}
+P {color: blue;
+font-style: italic;
+text-align: left;
+font-family: "Book Antiqua";
+font-size: 10pt;}
+H2 {
+    text-align: center;
+    font-size: 16pt;
+    font-family: "Comic Sans";
+}
+H5 {
+    text-align: left;
+    font-size: 16pt;
+    font-family: "Calibri";
+}
+H4 {
+    text-align: left;
+    font-size: 12pt;
+    font-family: "Times";
+}
